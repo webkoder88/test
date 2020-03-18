@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: main\n"
+"POT-Creation-Date: 2020-03-17 23:45+0200\n"
+"PO-Revision-Date: 2020-03-17 23:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/Controller/PageController.php:117 app/Controller/PageController.php:149
+msgid "Wrong form data"
+msgstr "Неправильные данные формы"
+
+#: app/Controller/PageController.php:127
+msgid "File uploaded"
+msgstr "Файл загружен"
+
+#: app/Controller/PageController.php:129 app/Models/User.php:50
+#: app/Models/User.php:92 app/Models/User.php:137
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: app/Models/User.php:28 app/Models/User.php:72
+msgid "Email already exists"
+msgstr "Адрес электронной почты уже существует"
+
+#: app/Models/User.php:43
+msgid "Registration successful please sign in"
+msgstr "Регистрация прошла успешно, пожалуйста войдите"
+
+#: app/Models/User.php:85
+msgid "User data updated successfully"
+msgstr "Данные пользователя успешно обновлены"
+
+#: app/Models/User.php:133
+msgid "Old password incorrect"
+msgstr "Неверный старый пароль"
+
+#: app/Models/User.php:158 app/Models/User.php:175
+msgid "Email or password incorrect"
+msgstr "Неверный адрес электронной почты или пароль"
+
+#: app/Models/User.php:168
+msgid "Login successful"
+msgstr "Успешный вход в систему"
+
+#: config/helper.php:57
+msgid "Change language to: "
+msgstr "Смените язык на: "
+
+#: views/404.php:4
+msgid "Who0ps! Page not found"
+msgstr "Who0ps! Страница не найдена"
+
+#: views/404.php:5
+msgid "This page cannot found or is missing."
+msgstr "Эта страница не может быть найдена или отсутствует."
+
+#: views/404.php:6
+msgid "Use the navigation above or the button below to get back and track."
+msgstr ""
+"Используйте навигацию выше или кнопку ниже, чтобы вернуться и отслеживать."
+
+#: views/404.php:8
+msgid "Return Home"
+msgstr "Вернуться на главную"
+
+#: views/layout.php:67
+msgid "Navigation"
+msgstr "Навигация"
+
+#: views/layout.php:71 views/profile.php:8
+msgid "Profile"
+msgstr "Профиль"
+
+#: views/layout.php:77
+msgid "Logout"
+msgstr "Выйти"
+
+#: views/login.php:4
+msgid "Sign In to"
+msgstr "Войти в"
+
+#: views/login.php:29 views/registration.php:36
+msgid "Password"
+msgstr "Пароль"
+
+#: views/login.php:36
+msgid "Log In"
+msgstr "Войти"
+
+#: views/login.php:46
+msgid "Don't have an account?"
+msgstr "У вас нет аккаунта?"
+
+#: views/login.php:46
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+#: views/profile.php:30
+msgid "Upload photo"
+msgstr "Загрузить фото"
+
+#: views/profile.php:43
+msgid "Upload"
+msgstr "Загрузить"
+
+#: views/profile.php:57
+msgid "Edit profile data"
+msgstr "Изменить данные профиля"
+
+#: views/profile.php:63 views/registration.php:30
+msgid "Name"
+msgstr "Имя"
+
+#: views/profile.php:74 views/profile.php:103
+msgid "Update"
+msgstr "Обновить"
+
+#: views/profile.php:85
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: views/profile.php:91
+msgid "Old password"
+msgstr "Старый пароль"
+
+#: views/profile.php:97
+msgid "New password"
+msgstr "Новый пароль"
+
+#: views/profile.php:100
+msgid "Please enter correct password min length 6, numbers, charsets"
+msgstr "Пожалуйста, введите правильный пароль мин. длина 6, цифры, символы"
+
+#: views/registration.php:4
+msgid "Sign Up to "
+msgstr "Зарегистрироваться в "
+
+#: views/registration.php:45
+msgid "I accept"
+msgstr "Я принимаю"
+
+#: views/registration.php:45
+msgid "Terms and Conditions"
+msgstr "Условия и положения"
+
+#: views/registration.php:53
+msgid "Register"
+msgstr "Регистрация"
+
+#: views/registration.php:66
+msgid "Already have account ?"
+msgstr "У вас уже есть учетная запись?"
+
+#: views/registration.php:66
+msgid "Sign In"
+msgstr "Войти"
